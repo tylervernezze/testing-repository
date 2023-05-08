@@ -1,4 +1,4 @@
-# Neovim Feature Extension: Load All Issue #1785 Sample Proposal
+# Neovim Feature Extension: Load All Issue Sample Proposal
 
 ## Description
 
